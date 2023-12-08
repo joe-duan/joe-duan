@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joe-duan
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Deep Learning (Tensorflow & Pytorch)
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swjtudhx@163.com
 <!---
