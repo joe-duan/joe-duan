@@ -1,18 +1,67 @@
-## 👋 Hi there, I’m @joe-duan
+```md
+# 👋 Hi, I'm Joe Duan
 
-- 👀 Passionate about **Data Science**, **Machine Learning**, **Quantitative Trading**, and **Large Language Model (LLM) technologies & applications**  
-- 🌱 Currently exploring the inner workings of **LLMs**, prompt engineering, and how to integrate them into real-world systems  
-- 💹 Actively learning and building **quantitative trading strategies**, combining traditional financial models with modern ML/AI techniques  
-- 🤝 Open to collaboration on data-driven projects, **quant research**, and open-source AI tools. Focused on bridging the gap between traditional ML and generative AI applications  
-- 📫 Feel free to reach me at **swjtudhx@163.com**
+Data Scientist / AI Engineer focused on bridging traditional machine learning, quantitative research, and modern LLM applications.
 
-### 🛠 Tech Stack
-- Python, Pandas, NumPy, Scikit-Learn, PyTorch  
-- SQL, Spark, Airflow  
-- Git, Docker, VSCode, JupyterLab  
-- Financial tools: Backtrader, Zipline, yFinance, Alphalens
+I enjoy building systems where **data, strategy, and intelligent automation** come together — from recommendation & forecasting pipelines to AI-native workflows and quantitative trading research.
 
-<!---
-joe-duan/joe-duan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Current Focus
+- Large Language Models (LLMs) & AI Agents
+- Quantitative Trading & Financial Modeling
+- Data-Driven Decision Systems
+- Applied Machine Learning in Real-World Business Scenarios
+- AI-assisted Development & Automation
+
+## 💡 Interests
+- LLM applications & prompt engineering
+- Retrieval-Augmented Generation (RAG)
+- ML/AI system design
+- Quant research & strategy backtesting
+- Data infrastructure & workflow orchestration
+- Human-AI collaboration systems
+
+## 🛠 Tech Stack
+
+### Languages & ML
+- Python
+- Pandas / NumPy
+- Scikit-Learn
+- PyTorch
+
+### Data Engineering
+- SQL
+- Spark
+- Airflow
+
+### AI & Tooling
+- Git
+- Docker
+- VSCode
+- JupyterLab
+
+### Quant & Finance
+- Backtrader
+- Zipline
+- yFinance
+- Alphalens
+
+## 📈 What I'm Building
+- AI-powered data workflows
+- Quantitative trading strategy research
+- LLM-enhanced productivity systems
+- Intelligent analytics & forecasting solutions
+- Open-source AI experimentation projects
+
+## 🤝 Open to Collaborate
+Interested in collaborating on:
+- AI / LLM applications
+- Quant research
+- Data engineering projects
+- ML infrastructure
+- Open-source tooling
+
+## 📫 Contact
+- Email: swjtudhx@163.com
+
+> “The future belongs to people who can combine domain knowledge, data, and AI into real-world systems.”
+```
