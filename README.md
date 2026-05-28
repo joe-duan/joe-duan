@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I'm Joe Duan
 
 Data Scientist / AI Engineer focused on bridging traditional machine learning, quantitative research, and modern LLM applications.
@@ -64,4 +63,3 @@ Interested in collaborating on:
 - Email: swjtudhx@163.com
 
 > “The future belongs to people who can combine domain knowledge, data, and AI into real-world systems.”
-```
