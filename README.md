@@ -1,65 +1,39 @@
+
 # 👋 Hi, I'm Joe Duan
 
-Data Scientist / AI Engineer focused on bridging traditional machine learning, quantitative research, and modern LLM applications.
+Supply Chain Algorithm Engineer / Data Scientist focused on machine learning, quantitative research, and modern LLM applications.
 
-I enjoy building systems where **data, strategy, and intelligent automation** come together — from recommendation & forecasting pipelines to AI-native workflows and quantitative trading research.
+Currently working on data-driven optimization and strategy systems in supply chain scenarios, including forecasting, allocation, operational analytics, and business-oriented algorithm solutions.
+
+Interested in bridging traditional ML, quantitative modeling, and AI-native systems to solve real-world problems.
 
 ## 🚀 Current Focus
 - Large Language Models (LLMs) & AI Agents
 - Quantitative Trading & Financial Modeling
+- Supply Chain Optimization & Forecasting
 - Data-Driven Decision Systems
-- Applied Machine Learning in Real-World Business Scenarios
 - AI-assisted Development & Automation
 
-## 💡 Interests
-- LLM applications & prompt engineering
-- Retrieval-Augmented Generation (RAG)
-- ML/AI system design
-- Quant research & strategy backtesting
-- Data infrastructure & workflow orchestration
-- Human-AI collaboration systems
-
 ## 🛠 Tech Stack
-
-### Languages & ML
-- Python
-- Pandas / NumPy
-- Scikit-Learn
-- PyTorch
-
-### Data Engineering
-- SQL
-- Spark
-- Airflow
-
-### AI & Tooling
-- Git
-- Docker
-- VSCode
-- JupyterLab
-
-### Quant & Finance
-- Backtrader
-- Zipline
-- yFinance
-- Alphalens
+- Python / SQL / Spark
+- Pandas / NumPy / Scikit-Learn / PyTorch
+- Airflow / Docker / Git / JupyterLab
+- Backtrader / Zipline / yFinance / Alphalens
 
 ## 📈 What I'm Building
 - AI-powered data workflows
 - Quantitative trading strategy research
 - LLM-enhanced productivity systems
 - Intelligent analytics & forecasting solutions
-- Open-source AI experimentation projects
 
 ## 🤝 Open to Collaborate
-Interested in collaborating on:
 - AI / LLM applications
 - Quant research
-- Data engineering projects
-- ML infrastructure
-- Open-source tooling
+- Data engineering & ML projects
+- Open-source AI tooling
 
 ## 📫 Contact
 - Email: swjtudhx@163.com
 
-> “The future belongs to people who can combine domain knowledge, data, and AI into real-world systems.”
+> Building practical systems with data, algorithms, and AI.
+
